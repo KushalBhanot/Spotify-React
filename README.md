@@ -1,9 +1,28 @@
-# Spotify App
-Made with:
-- React
-- Context API
-- Material UI
-- Spotify API
+# Spotify App 🎧
+Made with React, Context API, Material UI and Spotify API
+
+### ✍🏻 Note to self
+- Window.location.hash
+- Javascript - .substring(), .split(), .reduce()
+- Use effect is of two types:
+    - Without cleanup
+    - With cleanup
+    - Optimise useEffect calls by skipping calls
+- Rules of hooks
+    - Only call hooks at the top level
+    - Only call hooks from react functions
+- In order to handle naming clashes for variables, the standard is to use an underscore in front of temporary vaiables(_token)
+- Prop Drilling - It is basically a situation when the same data is being sent at almost every level due to requirements in the final level. :: Solution is to use “useContext” hook. It is based on Context API and works on the mechanism of Provider and Consumer.
+- Named Export vs Default Export in ES6: Named Exports are used to export multiple things from one file whereas using default export you can export only one thing. The other thing is default export can be imported with any name you like.
+- CSS properties:
+    - Transition
+    - Object-fit
+    - Transform
+- Optional Chaining in JavaScript(?): It enables you to  read the value of a property located deep within a chain of connected objects without having to check that each reference in the chain is valid.
+- Material-UI components:
+    - Icons
+    - Grid
+    - Avatar
 
 ## Contributions to this repo are WELCOME ⚡️🙌🏻
 - :art: give suggestions on how to improve the UI design
