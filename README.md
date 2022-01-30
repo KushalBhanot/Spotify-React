@@ -1,4 +1,6 @@
 # Spotify App 🎧
+Live at: https://spotify-api-react.netlify.app/
+
 Made with React, Context API, Material UI and Spotify API
 
 ### ✍🏻 Note to self
